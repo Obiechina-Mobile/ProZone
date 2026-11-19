@@ -181,3 +181,25 @@ Email delivery, notifications, legal pages, support operations, and production m
 GitHub: https://github.com/Obiechina-Mobile
 
 Built with React Native, Expo, TypeScript, NativeWind, and Supabase.
+
+
+
+## 📱 App Screenshots
+
+### Home Screen
+![Home Screen](Screenshot_20261108-190711_ProZone.jpg)
+
+### Login Screen
+![Login Screen](Screenshot_20261108-190731_ProZone.jpg)
+
+### Create Account
+![Create Account](Screenshot_20261108-191849_ProZone.jpg)
+
+### Search Properties
+![Search Properties](Screenshot_20261108-191905_ProZone.jpg)
+
+### Add Property
+![Add Property](Screenshot_20261108-191916_ProZone.jpg)
+
+### Saved Properties
+![Saved Properties](Screenshot_20261108-192544_ProZone.jpg)
